@@ -1,0 +1,18 @@
+{
+	"name": "venca-x/nette-tester-travis-ci",
+	"type": "library",
+	"description": "Nete tester for Travis CI",
+	"keywords": ["nette", "travis"],
+	"homepage": "http://www.venca-x.cz",
+	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"authors": [
+		{
+			"name": "vEnCa-X",
+			"homepage": "http://www.venca-x.cz",
+			"email": "venca-x@seznam.cz"
+		}
+	],
+	"require-dev": {
+		"nette/tester": "@dev"
+	}
+}
